@@ -1,0 +1,31 @@
+{
+  "name": "share-on-lan",
+  "version": "1.0.0",
+  "description": "Share files on lan ",
+  "main": "index.js",
+  "dependencies": {
+    "multicast-eventemitter": "git+https://github.com/chrisdew/multicast-eventemitter.git",
+    "socket.io": "^1.3.4",
+    "socket.io-client": "^1.3.4",
+    "socket.io-stream": "^0.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikatlas/ShareFilesOnLANNode.git"
+  },
+  "keywords": [
+    "share",
+    "files",
+    "lan"
+  ],
+  "author": "Timeless",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nikatlas/ShareFilesOnLANNode/issues"
+  },
+  "homepage": "https://github.com/nikatlas/ShareFilesOnLANNode#readme"
+}
